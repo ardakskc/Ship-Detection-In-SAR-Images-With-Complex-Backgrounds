@@ -35,6 +35,6 @@ batch size, it was not trained as well as the other methods.
 
 Project Contributors:
 
-Arda Kaşıkçı
+-Arda Kaşıkçı
 
-Ömer Batuhan Özbay
+-Ömer Batuhan Özbay
