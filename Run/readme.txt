@@ -1,0 +1,3 @@
+Kodlar Google Colab kullanarak çalıştırılmıştır.Kodlar 4 adet .ipynb uzantılı dosyadan oluşmaktadır. Bunlar yolov3Tiny,Yolov4ShipDetection,YOLOv5Code,Object_Detection_model_TF2'dir.
+Yolo modelleri için farklı TF2 modelleri için farklı dataset biçimlendirmesi mevcuttur.
+Tensorflow modellerinin hepsi ağırlıkları değiştirilerek Object_Detection_model_TF2 içinde çalıştırılabilir haldedir. Her .ipynb uzatılı dosya içinde nasıl çalıştırılacağına dair notlar eklenmiştir. Her model için öncelikle Google Colab'a veri setini uygun şekilde yüklemek gerekmektedir. Ardından kod satırlarını teker teker çalıştırmak gerekmektedir. Önemli olan veri setini modele uygun şekilde düzenlemektir.

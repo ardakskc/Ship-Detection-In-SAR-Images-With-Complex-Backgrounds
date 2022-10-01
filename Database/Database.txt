@@ -1,0 +1,4 @@
+Yolo Format Veri Seti:
+https://github.com/CAESAR-Radi/SAR-Ship-Dataset
+Tensorflow Format Veri Seti:
+https://drive.google.com/file/d/1SlTkTXBcgoFxLuisSJLo4lv_6mFcmyGI/view?usp=sharing
